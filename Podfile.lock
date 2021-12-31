@@ -1,0 +1,16 @@
+PODS:
+  - TwilioConversationsClient (2.0.3)
+
+DEPENDENCIES:
+  - TwilioConversationsClient (~> 2.0)
+
+SPEC REPOS:
+  trunk:
+    - TwilioConversationsClient
+
+SPEC CHECKSUMS:
+  TwilioConversationsClient: b6c95184f7357f3bf45f21f174d35d58515b1799
+
+PODFILE CHECKSUM: 1b4b12a8209ab12190663ff2859260a899ca14f2
+
+COCOAPODS: 1.11.2
