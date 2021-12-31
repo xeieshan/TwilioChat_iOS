@@ -1,24 +1,35 @@
-# Conversations Demo Application Overview
+# TwilioChat_iOS
+Twilio iOS SDK Implementaion  
 
-This demo app SDK version: ![](https://img.shields.io/badge/SDK%20Version-1.3.1-blue.svg)
+Chat one-one  
+Chat One-Many (Group) 
+- Add Participant 
+- Remove Participant   
+
+Send Attachment Image  
+
+Android - iOS Tested 
+iOS - iOS Tested 
+iOS - Android Tested  
+
+React to Message, 
+Delete a Message 
+Read, Delivered, Sent  
+
+Delete a Conversation  
+Unread Messages Filter  
+
+- Token URL = You need to take this from Twilio Console &lt;Keep It Secret> (You can edit it in Environment Variables in Edit Scheme) the variable name is `ACCESS_TOKEN_SERVICE_URL`
+
 
 ## Getting Started
 
 Welcome to the Conversations Demo application. This application demonstrates a basic conversations client application with the ability to create and join conversations, add other participants into the conversations and exchange messages.
 
 What you'll minimally need to get started:
+- Clone this repo
+- You need to take this from Twilio Console &lt;Keep It Secret> (You can edit it in Environment Variables in Edit Scheme) the variable name is `ACCESS_TOKEN_SERVICE_URL`
 
-- A clone of this repository
-- [A way to create a Conversations Service Instance and generate client tokens](https://www.twilio.com/docs/conversations/identity)
-- Firebase configuration file: [Follow the instructions here](https://developers.google.com/android/guides/setup)
-
-## Building
-
-### Add GoogleService-Info.plist
-
-[Generate GoogleService-Info.plist](https://firebase.google.com/docs/ios/setup).
-
-You may skip this step if you do not need the Firebase crash reporting. Find the line with `FirebaseApp.configure()` in the AppDelegate.swift file and remove it to disable Firebase.
 
 ### Set the value of `ACCESS_TOKEN_SERVICE_URL`
 
