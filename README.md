@@ -19,4 +19,4 @@ Read, Delivered, Sent
 Delete a Conversation  
 Unread Messages Filter  
 
-- Token URL = You need to take this from Twilio Console &lt;Keep It Secret>
+- Token URL = You need to take this from Twilio Console &lt;Keep It Secret> (You can edit it in Environment Variables in Edit Scheme) the variable name is `ACCESS_TOKEN_SERVICE_URL`
