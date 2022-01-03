@@ -135,14 +135,14 @@ $ mockingbird download starter-pack
 If you want to know more about testing framework please refer to the repo of [Mockingbird](https://github.com/birdrides/mockingbird#installation).
 
 ## Future Enhancements
-One to One Chat message
-Images Sharing
-Videos Sharing
-PDF sharing
-Message Status
-User Status
-Storing messages in local cache
-Firebase Notifications
+- One to One Chat message
+- Images Sharing
+- Videos Sharing
+- PDF sharing
+- Message Status
+- User Status
+- Storing messages in local cache
+- Firebase Notifications
 
 
 ## License
